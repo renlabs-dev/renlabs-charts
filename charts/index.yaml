@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   application:
   - apiVersion: v2
-    created: "2024-11-28T15:33:41.42278886Z"
+    created: "2024-11-28T15:38:38.991757641Z"
     description: Generic helm chart for all kind of applications
-    digest: 5133d2ea773ca39ff3a65316bf2645ecd43036831d4c988b4df42fa4a94e2ff7
+    digest: 629661afa1119e9aa8560617a94abf313fec3e582a3cdd493c4f560add3df66f
     name: application
     type: application
     urls:
     - https://renlabs-dev.github.io/renlabs-charts/charts/application-0.0.1.tgz
     version: 0.0.1
-generated: "2024-11-28T15:33:41.421188327Z"
+generated: "2024-11-28T15:38:38.989285642Z"
