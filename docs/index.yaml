@@ -183,6 +183,15 @@ entries:
     version: 0.0.1
   utils:
   - apiVersion: v2
+    created: "2024-12-14T23:18:08.787211326Z"
+    description: Utility helm chart for shared resources
+    digest: 055d9b9b908ed489b15e208d57499ee246916f8ca36567cac6a8ea8d6bb08bd3
+    name: utils
+    type: application
+    urls:
+    - https://renlabs-dev.github.io/renlabs-charts/utils-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
     created: "2024-12-11T21:32:21.974958362Z"
     description: Utility helm chart for shared resources
     digest: 676a5ff26587228669b25c6e9bcfb2cfbc3b2de68d13069dcb67d9a30ee0bcc5
@@ -191,4 +200,4 @@ entries:
     urls:
     - https://renlabs-dev.github.io/renlabs-charts/utils-0.0.1.tgz
     version: 0.0.1
-generated: "2024-12-11T21:32:53.574282002Z"
+generated: "2024-12-14T23:18:08.786824925Z"
